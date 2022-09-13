@@ -1,0 +1,14 @@
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.exe
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.deps.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.runtimeconfig.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\CPO_JukeBox.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.AssemblyInfo.cs
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\bin\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\Interop.WMPLib.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPO_JukeBox\CPO_JukeBox\obj\Debug\netcoreapp3.1\CPO_JukeBox.csproj.ResolveComReference.cache
